@@ -1,4 +1,4 @@
-export interface infoDb {
+export type InfoDb = {
     head: string,
     text: string, 
     }

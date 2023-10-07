@@ -1,5 +1,5 @@
-import { infoDb } from "./types"
-export default function Card(props: infoDb) {
+import { InfoDb } from "./types"
+export default function Card(props: InfoDb) {
   return (
     <>
 
