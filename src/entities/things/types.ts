@@ -1,5 +1,5 @@
 export type InfoDb = {
-    head: string,
-    text: string, 
+    product: string,
+    price: string, 
     }
     
